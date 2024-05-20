@@ -1,18 +1,17 @@
-# Hotel-Management-System
-The project is implemented using Swing GUI widget toolkit and MYSQL database. There are Cloud-based hotel software saves time spent on manual updates
-The System provides the access:-
-(i) Add room details, easily update, delete records & view all records.
-(ii) Customer Check in insert all record including room details,
-(iii) Customer Check out and Calculate bill automatically.
-(iv) Auto Generate Bill when Customer Checkout.
-(v) Store Bill Details in future see and print this bill.
-(vi)Pay-as-you-go service, upgrade easily, quick installation
-Technology Used:- JAVA, AWT & Swing
-Tools Used:- Apache Net-Beans for Coding
-JDBC for database Connectivity
-Database:- MYSQL for Storing Transaction history
-
-
+# # Sistema de gestión hotelera
+# El proyecto se implementa utilizando Swing GUI widget toolkit y base de datos MYSQL. Hay software basado en la nube hotel ah#orra tiempo dedicado a las actualizaciones manuales
+# El sistema proporciona el acceso:-
+# (i) Añadir detalles de la habitación, actualizar fácilmente, eliminar registros y ver todos los registros.
+# (ii) Registro de clientes en insertar todos los registros, incluidos los detalles de la habitación,
+# (iii) Salida del cliente y cálculo automático de la factura.
+# (iv) Generación automática de la factura cuando el cliente sale.
+# (v) Almacenar detalles de la factura en el futuro ver e imprimir esta factura.
+# (vi) Pay-as-you-go servicio, actualizar fácilmente, instalación rápida
+# Tecnología utilizada: - JAVA, AWT y Swing
+# Herramientas utilizadas:- Apache Net-Beans para codificación
+# JDBC para la conectividad de bases de datos
+# Base de datos:- MYSQL para almacenar el historial de transacciones
+#
 
 # Easy to Installed using executable file(.exe)
 
